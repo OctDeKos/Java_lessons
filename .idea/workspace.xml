@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Переменные и константы.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arithmetic.java" afterDir="false" />
+    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Арифметические операторы.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Month_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +49,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arithmetic">
+  <component name="RunManager" selected="Application.Cycle">
     <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arithmetic" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycle" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Month_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Month_String" />
       <module name="Hello World" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +87,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cycle" />
+        <item itemvalue="Application.Month_String" />
+        <item itemvalue="Application.If_Else" />
         <item itemvalue="Application.Arithmetic" />
         <item itemvalue="Application.Start" />
       </list>
@@ -92,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668349419334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Арифметические операторы.">
+      <created>1668361805594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668361805594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +142,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java lesson.&#10;Типы данных." />
     <MESSAGE value="Переменные и константы." />
-    <option name="LAST_COMMIT_MESSAGE" value="Переменные и константы." />
+    <MESSAGE value="Арифметические операторы." />
+    <option name="LAST_COMMIT_MESSAGE" value="Арифметические операторы." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
