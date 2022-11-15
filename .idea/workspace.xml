@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Арифметические операторы.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/If_Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Month_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +47,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cycle">
+  <component name="RunManager" selected="Application.Array">
     <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arithmetic" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="Hello World" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Start" />
-      <module name="Hello World" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Cycle" />
         <item itemvalue="Application.Month_String" />
         <item itemvalue="Application.If_Else" />
         <item itemvalue="Application.Arithmetic" />
-        <item itemvalue="Application.Start" />
       </list>
     </recent_temporary>
   </component>
