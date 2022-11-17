@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Арифметические операторы.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array.java" afterDir="false" />
+    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Array - массивы.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/About_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +48,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array">
-    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic" />
+  <component name="RunManager" selected="Application.About_Class">
+    <configuration name="About_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="About_Class" />
       <module name="Hello World" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.About_Class" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Cycle" />
         <item itemvalue="Application.Month_String" />
         <item itemvalue="Application.If_Else" />
-        <item itemvalue="Application.Arithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668361805594</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Array - массивы.">
+      <created>1668504426273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668504426273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +149,8 @@
     <MESSAGE value="Java lesson.&#10;Типы данных." />
     <MESSAGE value="Переменные и константы." />
     <MESSAGE value="Арифметические операторы." />
-    <option name="LAST_COMMIT_MESSAGE" value="Арифметические операторы." />
+    <MESSAGE value="Array - массивы." />
+    <option name="LAST_COMMIT_MESSAGE" value="Array - массивы." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
