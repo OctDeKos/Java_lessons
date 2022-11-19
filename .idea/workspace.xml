@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Принцип наследования. Классы. Подклассы.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Start_for_Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Интерфейсы.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668847921946</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Интерфейсы.">
+      <created>1668866631110</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668866631110</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +184,8 @@
     <MESSAGE value="Классы. Конструкторы классов." />
     <MESSAGE value="Строка. Компиляция. Запуск из терминала." />
     <MESSAGE value="Принцип наследования. Классы. Подклассы." />
-    <option name="LAST_COMMIT_MESSAGE" value="Принцип наследования. Классы. Подклассы." />
+    <MESSAGE value="Интерфейсы." />
+    <option name="LAST_COMMIT_MESSAGE" value="Интерфейсы." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
