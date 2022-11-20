@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Перегрузка.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Paket/Teacher.java" afterDir="false" />
+    <list default="true" id="81af9505-bfd0-4757-bed7-dbad90713403" name="Changes" comment="Принципы ООП.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Paket2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Paket/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Paket/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     "settings.editor.selected.configurable": "application.passwordSafe"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Start_for_employe">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="About_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="About_Class" />
       <module name="Hello World" />
@@ -60,9 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Paket2.Main" />
       <module name="Hello World" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Paket2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Start_for_employe" />
         <item itemvalue="Application.Start_for_animal" />
         <item itemvalue="Application.Stroka" />
         <item itemvalue="Application.About_Class" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668869333684</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Принципы ООП.">
+      <created>1668869947184</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668869947184</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +223,8 @@
     <MESSAGE value="Абстрактные классы" />
     <MESSAGE value="Пакеты в java" />
     <MESSAGE value="Перегрузка." />
-    <option name="LAST_COMMIT_MESSAGE" value="Перегрузка." />
+    <MESSAGE value="Принципы ООП." />
+    <option name="LAST_COMMIT_MESSAGE" value="Принципы ООП." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
